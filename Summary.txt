@@ -1,0 +1,9 @@
+Online Store / E-commerce Backend
+
+Description: Build the backend for an e-commerce application. The system should handle products, categories, shopping cart, orders, and payments.
+Features:
+User authentication (JWT or Identity).
+CRUD operations for products and categories.
+Shopping cart functionality.
+Order processing (track orders, payment gateway integration).
+Admin panel for managing products, orders, and users.
