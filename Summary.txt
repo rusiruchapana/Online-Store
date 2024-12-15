@@ -7,3 +7,6 @@ CRUD operations for products and categories.
 Shopping cart functionality.
 Order processing (track orders, payment gateway integration).
 Admin panel for managing products, orders, and users.
+
+//Github link
+https://chatgpt.com/share/675e78d2-a0d4-8008-bf90-bb5c704d18da
